@@ -1,0 +1,8 @@
+print("Hello Replit")
+Print("What could go wrong?")
+print("= MUSIC+ =")
+print("> Songs")
+print("> Albums")
+print("> Artists")
+print('Tiernan cusack')
+print('Febuary10th2025')
